@@ -1,0 +1,6 @@
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/edit_cache.dir
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/TCltExample.dir
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/SvrExample.dir
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/ExampleClientlib.dir
+/mnt/hgfs/workcode/gdbus-learn/2th/CMakeFiles/ExampleServerlib.dir
